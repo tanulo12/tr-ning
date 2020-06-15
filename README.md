@@ -1,0 +1,2 @@
+# tr-ning
+informatika
